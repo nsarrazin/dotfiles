@@ -1,0 +1,4 @@
+rofi.theme: /usr/share/rofi/themes/custom.rasi
+rofi.font: Roboto Mono 15
+rofi.color-active: #E64569
+rofi.color-window: #353535
